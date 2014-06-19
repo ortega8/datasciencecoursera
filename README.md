@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-For course project
+For the course project
